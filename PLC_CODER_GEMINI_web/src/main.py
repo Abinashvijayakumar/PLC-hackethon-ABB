@@ -1,5 +1,5 @@
 # Inside src/main.py
-
+# check the main
 import google.generativeai as genai
 
 # --- CONFIGURATION ---
